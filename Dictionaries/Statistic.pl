@@ -1,0 +1,10 @@
+[
+    'INT',
+    'CON',
+    'STR',
+    'DEX',
+    'WIS',
+    'CHA',
+    'GMT',
+    'PSI'
+];

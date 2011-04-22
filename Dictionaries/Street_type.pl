@@ -1,0 +1,9 @@
+[
+    'Ave',
+    'Pl',
+    'Blvd',
+    'Dr',
+    'Rd',
+    'St',
+    'Parkway',
+];

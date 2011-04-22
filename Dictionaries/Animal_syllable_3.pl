@@ -1,0 +1,14 @@
+[
+    'dile',
+    'phant',
+    'ti',
+    'cerous',
+    'roo',
+    'ar',
+    'pine',
+    'snake',
+    'pus',
+    'by',
+    'na',
+    'gan',
+];

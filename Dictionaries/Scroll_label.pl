@@ -1,0 +1,15 @@
+[
+    'I CAN HAS CHEEZBURGER',
+    'I HAS A FLAVR',
+    'DO NOT WANT',
+    'NO MORE HEROES',
+    'I HAZ A BUKIT',
+    'FUGGETABOUTIT',
+    'HAK TEH PLANIT',
+    'LA LI LU LE LO',
+    'HOW IS BABBY FORMED',
+    'OH THE HUGE MANATEE',
+    'ELBERETH',
+    'MOAR',
+    'IMMA CHARGIN MAH LAZER'
+];

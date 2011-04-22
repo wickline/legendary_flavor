@@ -1,0 +1,22 @@
+[
+    'Glenn Jackson',
+    'I-5',
+    'Sauvie Island',
+    'St. Johns',
+    'Fremont',
+    'Broadway',
+    'Brooklyn',
+    'Tacoma Narrows',
+    'Ethernet',
+    'Steel',
+    'Burnside',
+    'Morrison',
+    'Hawthorne',
+    'Marquam',
+    'Ross Island',
+    'Sellwood',
+    'Golden Gate',
+    'Bay',
+    'San Rafael-Richmond',
+    'Enterprise'
+];

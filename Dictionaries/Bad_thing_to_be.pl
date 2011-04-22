@@ -1,0 +1,17 @@
+[
+    ('a zombie') x 6,
+    'a lawyer',
+    'an ad executive',
+    'your own worst enemy',
+    'destitute',
+    'unemployed',
+    'fated to die',
+    'foul-smelling',
+    'a poor speller',
+    'a madclaw',
+    'high on life',
+    'Glenn Beck',
+    'a <Animal> in a <Crate>',
+    'addicted to <Drug>',
+    'from a broken home',
+];

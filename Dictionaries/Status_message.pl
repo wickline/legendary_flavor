@@ -1,0 +1,3 @@
+[
+    '(suffering from <$Player.status>)'
+];

@@ -1,0 +1,15 @@
+[
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday',
+    'Saturday',
+    'Sunday',
+    'Sweetmorn',
+    'Boomtime',
+    'Pungenday',
+    'Prickle-Prickle',
+    'Setting Orange',
+    'Kanesday',
+]

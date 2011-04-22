@@ -1,0 +1,10 @@
+[
+    'bus',
+    'train',
+    'subway',
+    'funicular',
+    'elevator',
+    'escalator',
+    'tram',
+    'monorail',
+];

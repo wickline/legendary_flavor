@@ -1,0 +1,6 @@
+[
+    'pisser',
+    'crapper',
+    'head',
+    'washroom',
+];

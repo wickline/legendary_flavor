@@ -1,0 +1,15 @@
+[
+    'cro',
+    'el',
+    'a',
+    'rhi',
+    'kan',
+    'ja',
+    'por',
+    'ra',
+    'pla',
+    'oc',
+    'wal',
+    'e',
+    'ptar',
+];

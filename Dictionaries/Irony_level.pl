@@ -1,0 +1,9 @@
+[
+    'One',
+    'Two',
+    'Three',
+    'Plaid',
+    'Midnight',
+    "\x{2135}<Subscript>",
+    'c'
+];

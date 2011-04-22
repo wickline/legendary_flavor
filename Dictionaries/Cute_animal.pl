@@ -1,0 +1,6 @@
+[
+    'kitten',
+    'puppy',
+    'bunny',
+    'ewok',
+];

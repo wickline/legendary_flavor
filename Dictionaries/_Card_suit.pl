@@ -1,0 +1,6 @@
+[
+    'spades',
+    'clubs',
+    'diamonds',
+    'hearts'
+];

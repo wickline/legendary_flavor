@@ -1,0 +1,6 @@
+[
+    'pentacles',
+    'wands',
+    'cups',
+    'swords'
+];

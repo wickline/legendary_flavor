@@ -1,0 +1,12 @@
+[
+    '<Animal>keepers',
+    'Fencing',
+    'Backgammon',
+    'Computer',
+    'Key',
+    'Go',
+    'Chess',
+    '<Vehicle>',
+    'Bombardment',
+    'Karate',
+];

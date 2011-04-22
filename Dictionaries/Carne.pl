@@ -1,0 +1,22 @@
+[
+    'pollo',
+    'res',
+    'puerco',
+    'calamares',
+    'mariscos',
+    'camarones',
+    'carnitas',
+    'pastor',
+    'lengua',
+    'tofu',
+    'carne de burro',
+    'soylami',
+    'purring maggot',
+    'chapulines',
+    '<Carne> relleno',
+    'jamon',
+    'manteca',
+    'chorizo',
+    'tocineta',
+    'tocineta y <Carne>'
+];

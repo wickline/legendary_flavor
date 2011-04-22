@@ -1,0 +1,60 @@
+USAGE
+
+    1)
+    set (for example) POST_TEST_HOOK in your env to point at
+    the game.pl in your checkout of this repo.
+    
+    2)
+    modify your testing harness include and call something like
+
+        sub log_post_test_hook {
+            return unless $ENV{POST_TEST_HOOK};
+            my ($all_tests_pass, $num_tests_run) = @_;
+
+            $all_tests_pass = $all_tests_pass ? 1 : 0;
+            $num_tests_run = +$num_tests_run;
+
+            my $flavor_text_generator = join(' ',
+                $ENV{POST_TEST_HOOK},
+                "--was_successful='$all_tests_pass'",
+                "--total_num_tests_executed='$num_tests_run'",
+            );
+            print `$flavor_text_generator 2>/dev/null`;
+        }
+    
+    3)
+    have fun
+
+CONTRIBUTIONS
+
+    I didn't write this. I've extricated it with permission. Some
+    folks will know the origin of this code. I'm glad to have it back
+    in your hands. All pull requests gladly accepted. I'll add a note
+    of personal preference that the meaning of Legendary Warriors be
+    preserved. This should keep the list small as only a limited number
+    of folks would qualify in any given period of time. It might make
+    sense to have a similar file (Local Legends) with entries that
+    would vary per site...
+    
+    Well, in any case, enjoy!
+
+HISTORY
+
+    In the beginning was the Code, and the Code was with Bugs, and
+    the Code was Buggy. He was with Bugs in the Beginning. In the
+    beginning he created the Red Light and the Green Light. The Light
+    was without form or voice. Another added voice to light.
+    
+    Code curators were motivated with both he carrot ("Life is good")
+    and the stick ("Yikes") until there arrived a group of individuals
+    motivated by the value of their very lives, by their honor and rank,
+    by disdain for enemies, by lust for the death of their foes, and by
+    greed for loot. Most of these individuals are known to us today as
+    Legendary Warriors. Some say that they continue their quests, that
+    perhaps they lead new armies against their traditional foes.
+    
+    This repository is a chronicle of their efforts, an oracle of their
+    futures, and a portal through which to join in their endeavor. The
+    repository may have suffered some damage in the course of pulling
+    it from the mysterious site of its origin. You are invited to join
+    us in restoring and improving the artifact.
