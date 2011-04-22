@@ -15,7 +15,7 @@
     'jdp',
     'jep',
     'jhe',
-    'jmh',
+    'jhm',
     'jrd',
     'jsh',
     'jxr',
