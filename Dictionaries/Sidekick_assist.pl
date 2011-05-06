@@ -2,7 +2,7 @@
     'A <Projectile> narrowly misses <$Player.sidekick>!',
     '<$Player.sidekick> says, "Thanks i could help bro"',
     '<$Player.sidekick> shouts, "Holy <Loot>s, <$Player>!"',
-    '<$Player.sidekick> grumbles, "I\'m getting too old for this shít."',
+    '<$Player.sidekick> grumbles, "I\'m getting too old for this shit."',
     '<$Player.sidekick>\'s pathing gets messed up and you can\'t leave the area.',
     '<$Player.sidekick> cheers.',
     'You shove the <$Opponent> while <$Player.sidekick> crouches behind its knees!',

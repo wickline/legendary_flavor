@@ -9,6 +9,7 @@
     'regenerated',
     'restored',
     'returned',
+    'unmarshalled',
     'only *mostly* dead',
     'undead',
     'hard to kill',

@@ -303,7 +303,7 @@ sub past_tense
     });
 }
 
-sub comparator
+sub comparative
 {
     my ($string) = @_;
     return inflect($string, 'r', sub {my $word = shift();
@@ -314,7 +314,7 @@ sub comparator
     });
 }
 
-sub mostest
+sub superlative
 {
     my ($string) = @_;
     return inflect($string, 'st', sub {my $word = shift();
@@ -564,8 +564,8 @@ sub _expand
             e     => \&olde_tyme,
             '^H'  => \&typo,
             'd'   => \&past_tense,
-            r     => \&comparator,
-            st    => \&mostest,
+            r     => \&comparative,
+            st    => \&superlative,
         );
         defined $x ? (
             exists $transforms{$inflection}
@@ -1005,7 +1005,7 @@ our @Achievements = (
         return $Vars{'Player.has_amulet'} && $Vars{'Player.location'} eq 'Heaven';
     } },
 
-    { name => 'Traveling with Ingrid', badge => 'R', description => 'Encounter Ingrid Initech in five different locations.', action => sub { my $output = shift();
+    { name => 'Traveling with Ingrid', badge => 'I', description => 'Encounter Ingrid Initech in five different locations.', action => sub { my $output = shift();
         if ($Vars{Opponent} =~ /^Ingrid Initech/) {
             $Vars{'Player.travels_with_ingrid'}{$Vars{'Player.location'}} = 1;
         }

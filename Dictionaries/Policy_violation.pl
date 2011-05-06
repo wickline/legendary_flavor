@@ -29,7 +29,7 @@
     'work^ from home',
     'abbreviate^ it "Cum Xtns"',
     'sharpen^ a <Material> <Loot> into a makeshift knife or "shiv"',
-    'plot^ to steal Chris Behnke\'s paycheck',
+    'plot^ to steal Isaac Initech\'s paycheck',
     'televise^ Major League Baseball with only implied, oral consent',
     'install^ an IRC daemon on edev<2-7>',
     'install^ <OS> on your <Device_that_really_shouldnt_have_linux_on_it> and then run a null void program where n is infinite',

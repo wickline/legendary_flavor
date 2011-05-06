@@ -2,7 +2,7 @@
     'your <Relationship>\'s funeral',
     '<Boss_monster>\'s funeral',
     '<Boss_monster>\'s wedding',
-    '<Boss_monster>\'s bah mitzvah',
+    '<Boss_monster>\'s bar mitzvah',
     '<Boss_monster>\'s bris',
     'the rise of <Boss_monster>',
     'the reign of <Boss_monster>',
@@ -27,5 +27,6 @@
     '<Status> entered the world',
     'the invention of fire',
     'the release of Duke Nukem',
+    'the release of Duke Nukem Forever',
     'the Jurassic Age',
 ];

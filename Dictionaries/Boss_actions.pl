@@ -258,7 +258,7 @@ Shredder throws open the door of the <.Vehicle> and yells, "<&\$0>s yes.  <&Mons
         win => sub {
             return singular(one_of([
                 'You sneak up on Zolan while he is caught up in maintaining <OS>!',
-                'You convince Amir to transfer Zolan back to sysadmin duty!',
+                'You convince Isaac Initech to transfer Zolan back to sysadmin duty!',
             ]));
         },
     },
@@ -307,10 +307,10 @@ Shredder throws open the door of the <.Vehicle> and yells, "<&\$0>s yes.  <&Mons
             ]));
         },
     },
-    'The A.C.K.' => {
+    'The A.K.' => {
         lose => sub {
             return singular(one_of([
-                'The A.C.K. asks you to set up a new <Feature> feature for <Essentials>.',
+                'The A.K. asks you to set up a new <Feature> feature for <Foundations>.',
             ]));
         },
     },

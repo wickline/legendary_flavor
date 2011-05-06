@@ -14,5 +14,5 @@
 
 [<$Player.status == being a zombie>?<Zombie_atmosphere>:<Atmosphere>]',
     '<$Opponent> leaves an origami [Player.dream_monster?<$Player.dream_monster>:unicorn] outside your door just to mess with you.',
-    '<&Fail>. You haven\'t taken a beating like that since <Event>.',
+    '<&Fail> You haven\'t taken a beating like that since <Event>.',
 ];

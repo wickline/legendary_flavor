@@ -37,5 +37,5 @@
     '<$Legendary_warrior_mentioned> spends his free time <Policy_compliance>ing',
     '<$Legendary_warrior_mentioned> never clocks out. The clock outs <$Legendary_warrior_mentioned>.',
     '<$Legendary_warrior_mentioned> posthumosuly cured <Status> in a <Monster>',
-    '<$Legendary_warrior_mentioned> performed three miracles, but one of them was a card trick',
+    '<$Legendary_warrior_mentioned> performed three miracles, but one of them was a card trick.',
 ];

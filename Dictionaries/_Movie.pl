@@ -91,7 +91,7 @@
     '007: Dr. <Eight_ball>',
     '007: Su Nombre Es Peligro',
     '007: En La Mira de los Asesinos',
-    '007: Licencia Para Motar',
+    '007: Licencia Para Matar',
     '007: Y el Hombre del <Loot> de Oro',
     'Mr. Hands',
     'Pokémon',

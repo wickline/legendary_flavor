@@ -7,7 +7,7 @@
     'Ghost',
     'Tails',
     'Luigi',
-    'Ingrid',
+    'Robin',
     'Kramer',
     'Fezzig',
     'Summer',

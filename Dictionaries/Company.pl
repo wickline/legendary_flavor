@@ -14,4 +14,6 @@
     'Yoyodyne Propulsion Systems',
     'Kabletown',
     'Sheinhardt Wig Company',
+    'Muppet Labs',
+    'Dunder Mifflin',
 ];

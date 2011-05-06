@@ -20,7 +20,7 @@
     'Pig Latin',
     'a pidgin of <Language>, <Language> and <Language>, with a smattering of <Language>',
     'Klingon',
-    'that language "Jaberwocky" was in',
+    'that language "Jabberwocky" was in',
     'a primitive dialect of <Language>',
     'Newspeak',
     'GlobalScript',
