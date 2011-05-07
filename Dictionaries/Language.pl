@@ -18,6 +18,9 @@
     'BeFunge',
     'Creole',
     'Pig Latin',
+    '<^Animal> Latin',
+    'Human Latin',
+    'Latin',
     'a pidgin of <Language>, <Language> and <Language>, with a smattering of <Language>',
     'Klingon',
     'that language "Jabberwocky" was in',
@@ -27,5 +30,9 @@
     'Python',
     'Perl',
     'Ruby',
-    'the <Location> dialect of <Language>'
+    'the <Location> dialect of <Language>',
+    'LISP',
+    'FORTH',
+    'Haskell',
+    'Javascript',
 ];

@@ -50,6 +50,10 @@
     'tek',
     'semi',
     'supra',
+    'necro',
+    'crypto',
+    'eco',
+    'freako',
     '<_Blogo><_Blogo>',
     '<_Blogo><_Blogo><_Blogo>',
     '<_Blogo><_Blogo><_Blogo><_Blogo>'

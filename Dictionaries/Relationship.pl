@@ -43,5 +43,6 @@
     'pet <Monster>',
     'psychic advisor',
     'homie',
-    'partner-in-crime'
+    'partner-in-crime',
+    '<Relationship>-with-benefits',
 ];

@@ -32,4 +32,5 @@
     'spy',
     'trucker',
     'space <Occupation>',
+    'disposable razor repairman',
 ];

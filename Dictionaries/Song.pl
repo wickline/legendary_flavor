@@ -12,6 +12,7 @@
     "Don't Fear The <^Monster>",
     'Godzilla',
     'The Ballad of Bilbo Baggins',
+    'Frodo of the Nine Fingers',
     'Hey Jude',
     'Star Wars Theme',
     'Cities on Flame with <^Genre>',
@@ -56,4 +57,6 @@
     'Sweet Home <^Location>',
     'Stuck Inside of <^Location> with the <^Location> Blues Again',
     "I'm On A <^Vehicle>",
+    'Under the Sea',
+    'Superstition',
 ];

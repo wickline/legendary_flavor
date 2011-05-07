@@ -40,5 +40,12 @@
     'You are in <$Player.location>, where a year lasts approximately 365 Earth days.',
     'What happens in <$Player.location> stays in <$0>.',
     'You can see why <$Player.location> is called the <Location> of the South.',
+    'You can see why <$Player.location> is called the Paris of <Location>.',
+    'You can see why Paris is called the <$Player.location> of <Location>.',
     'You are in <$Player.location>. You hope there\'s a Starbucks here, because you are seriously jonesin\' for a macchiatto.',
+    'Touts, <Vehicle> drivers, and street peddlers swarm you as you try to leave <$Player.location> Central Station.',
+    'The air starts to smell like <Food> and <Material>. Yes, this is definitely <$Player.location>.',
+    '<$Player.location> looks just like you read about in <Book>.',
+    '<$Player.location> looks just like it did in <Movie>.',
+    '<$Player.location> looks nothing like it did in <Movie>, where it was represented by the Bradbury Building.',
 ];

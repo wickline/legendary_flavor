@@ -27,4 +27,5 @@
     ': this time it\'s personal!',
     ', a prequel to \'<Movie>\' that, at last, reveals how <Boss_monster> became <Bad_thing_to_be>',
     ': a cautionary tale about an ambitious scientist who seeks to understand the mystery of life, with disastrous results.',
+    ': an adaptation of \'<Book>\' set during <Event>.',
 ];
