@@ -6,7 +6,7 @@
     'Welcome to <$Player.location>, home of the <Epic_loot>.',
     'Welcome to <$Player.location>, birthplace of <Boss_monster>.',
     'Welcome to <$Player.location>, the site of <Legendary_warrior> "<Appellation>"\'s stunning victory against <Boss_monster>.',
-    'Welcome to <$Player.location>, the site of the first documented case of <Status>.',
+    'Welcome to <$Player.location>, the site of the first documented case of <Status_affliction>.',
     'Welcome to <$Player.location>. Beware of pocket thieves!',
     'Welcome to <$Player.location>. Off in the distance, you can see <Location>.',
     'Your <Vehicle> pulls into <$Player.location>. You take a look outside and you wish you had stayed at home.',

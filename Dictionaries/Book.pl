@@ -1,6 +1,6 @@
 [
-    'Love in the Time of <^Status>',
-    'Forbidden <^Status>',
+    'Love in the Time of <^Status_affliction>',
+    'Forbidden <^Status_affliction>',
     'Lady Shatterly\'s <^Relationship>',
     '<^Monster> Fantasies',
     '<^Monster> Passions',

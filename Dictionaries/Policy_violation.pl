@@ -158,7 +158,7 @@
     'store^ a week\'s worth of lunches in the office fridge',
     'do^ some crimes',
     'get^ sushi and not pay^',
-    'come^ in with a <Adjective> case of <Status>',
+    'come^ in with a <Adjective> case of <Status_affliction>',
     'player hate',
     'sweep^ the leg',
     q{make^ "<Legendary_warrior> doesn't know the right way to do it" a core part of our decision-making process},

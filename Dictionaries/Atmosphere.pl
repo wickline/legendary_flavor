@@ -23,6 +23,6 @@
     '[Player.sidekick?You try to leave <$Player.location>, but you\'re compelled to say, "I can\'t leave without my friend <$Player.sidekick>.".:There are ants at your feet. You can\'t leave <$Player.location> without stepping on them.]',
     'You wonder if you\'ll ever reach your goal of traveling to <Location>, defeating <Boss_monster> and recovering the <Epic_loot>.',
     'The <Food> tastes terrible!',
-    '[Player.sidekick?You displaced <$Player.sidekick>.:You sneeze. Your <Status> must be acting up.]',
+    '[Player.sidekick?You displaced <$Player.sidekick>.:You sneeze. Your <Status_affliction> must be acting up.]',
     'You meditate to restore your manna',
 ];

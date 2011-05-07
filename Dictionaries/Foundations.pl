@@ -11,7 +11,7 @@
     'SponsoredMessage',
     'Mobile WhenDemanded',
     'Music Select',
-    'Internet Download'
+    'Internet Download',
     'Dr. Skipper',
     'Mountain Breeze',
 ];

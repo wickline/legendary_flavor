@@ -13,7 +13,7 @@
     '<$_> said that <OS> can\'t even <Policy_compliance>!',
     '<$_> is going to play the love interest in the sequel to "<Movie>"!"',
     '<$_> has discovered a 23rd immutable law of marketing!',
-    '<Material> causes <Status> in white mice.',
+    '<Material> causes <Status_affliction> in white mice.',
     '<$_> is dating a high schooler!',
     'I heard it from <Boss_monster>, so 50/50 it\'s a lie, but <Rumor>(<$_>)',
     '<$_> is a replicant!',
@@ -21,6 +21,6 @@
     '<$_> is leaving to work at <Initech_affiliate>.',
     '<$_> has a blog with pictures of dead <Animal>s and <Animal>s!',
     '<$_> is a Cylon! But who isn\'t nowadays?',
-    '<$_> has controversial views on <Status>',
+    '<$_> has controversial views on <Status_affliction>',
     '<$_> is in the country illegally',
 ];

@@ -61,7 +61,7 @@ You also forget where you put your pouch of gold.};
         lose => sub {
             return singular(one_of([
                 'Dean Wormer muses, "The time has come for someone to put his <Body_part> down. And that <$0> is me."',
-                '[$Player.status=double-secret <Status>]Dean Wormer places you on <$Player.status>!',
+                '[$Player.status=double-secret <Status_affliction>]Dean Wormer places you on <$Player.status>!',
             ]));
         },
         win => sub {
@@ -304,6 +304,7 @@ Shredder throws open the door of the <.Vehicle> and yells, "<&\$0>s yes.  <&Mons
             return singular(one_of([
                 'Itchy takes your <$Loot> and pushes you off of the tree house.',
                 'Itchy sits in his projection chair and watches your WOW.',
+                'Itchy sits in his projection chair and watches you <Policy_violation>.',
             ]));
         },
     },

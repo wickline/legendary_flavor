@@ -72,7 +72,7 @@
     'Sainte-Clotilde-de-<-^Loot>',
     'Port <^Loot>',
     'Upper <^Loot>',
-    'the Cape of <^Status>',
+    'the Cape of <^Status_affliction>',
     'the Arctic Circle',
     'Hanoi Hilton',
     'a Shanghai tunnel',
