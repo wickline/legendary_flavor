@@ -1,10 +1,10 @@
 [
     '<$Loot>:
-Equipped on the <Body_part>. Protects against <Status> and <Status>. Increases <Statistic> by +<1-5>.',
+Equipped on the <Body_part>. Protects against <Status_affliction> and <Status_affliction>. Increases <Statistic> by +<1-5>.',
     'The engraving on the <$Loot> commemorates the victory of <Legendary_warrior> "<Appellation>" over the <Monster> <Group> in <1000-1999>.',
     'The engraving on the <$Loot> commemorates the final defeat of <Boss_monster> at the hands of <Legendary_warrior> "<Appellation>" in <1000-1999>.',
     'The <$Loot> reminds you of one your <Relationship> gave you as a child.',
-    'The <$Loot> reminds you of one your <Relationship> gave you when you were in the hospital recovering from <Status>.',
+    'The <$Loot> reminds you of one your <Relationship> gave you when you were in the hospital recovering from <Status_affliction>.',
     'The <$Loot> is made from something almost, but not quite, entirely unlike <Material>.',
     'The <$Loot> sports a faded <Material> sticker saying "<Sticker>".',
     'The <$Loot> sports a small <Material> sticker with fine print: "<Sticker>"',

@@ -42,7 +42,7 @@
     'Liquor over Food',
     '<Liquor> over <Liquor>',
     '<Food> over <Food>',
-    '<Status> over <Status>',
+    '<Status_affliction> over <Status_affliction>',
     '<Soft_drink> over <Soft_drink>',
     'breaking your hard boiled <Animal> egg on the big end (big-endian) versus the little end (little-endian)',
     'EBCDIC vs. ASCII',

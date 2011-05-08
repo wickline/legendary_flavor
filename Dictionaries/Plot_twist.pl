@@ -1,5 +1,5 @@
 [
-    'As <$Opponent> breathes <Its> last, you look at the body, and realize you\'ve made a horrible mistake. "<Relationship>? What were you doing in that <$Opponent> suit!" you say.'.
+    'As <$Opponent> breathes <Its> last, you look at the body, and realize you\'ve made a horrible mistake. "<^Relationship>? What were you doing in that <$Opponent> suit?!"'.
     'As you start walking away, <$Opponent> gets up and tries to shoot you with <Its> <Weapon>!
 <&Death_blow>
 <&Death>',

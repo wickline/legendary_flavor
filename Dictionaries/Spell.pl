@@ -22,7 +22,7 @@
     'Anatidize',
     'Lycanthropize',
     'Anthropomorphize',
-    '<^Status> Cloud',
+    '<^Status_affliction> Cloud',
     'Magick Missile',
     'Touch Handler',
     'Boogie',

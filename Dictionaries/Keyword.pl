@@ -1,7 +1,7 @@
 [
     '<Loot>',
     '<Relationship> - <Relationship> relationship',
-    '<Status>',
+    '<Status_affliction>',
     '<Monster>',
     '<Location>',
     '<Body_part>',

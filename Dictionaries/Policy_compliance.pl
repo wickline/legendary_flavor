@@ -2,7 +2,7 @@
     'leave^ a note',
     'come^ in before 9:00',
     'come^ in after 7:00',
-    'do^ what ldc says',
+    'do^ what Isaac Initech says',
     'hold^ all-employee meetings in the parking lot',
     'display^ job ads for OtherTech on www.initech.com',
     'just keep^ hitting enter until the <Loot> moves back up to <Location> and the <Loot>s start generating.',
