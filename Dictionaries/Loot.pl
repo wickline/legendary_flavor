@@ -46,7 +46,7 @@
     'bottle^ of <Adjective> potion to alleviate the effects of <Status_affliction>',
     'bottle^ of <Adjective> potion to manage the symptoms of <Status_affliction>',
     'bottle^ of <Adjective> potion to prevent <Status_affliction>',
-    'baggy of an herbal remedy for <Status_affliction>',
+    'baggy^ of an^ herbal remedy^ for <Status_affliction>',
     'finely chopped <Food>',
     'plush <Monster>',
     'copy^ of \'The Kramer\'',
@@ -266,7 +266,7 @@
     'oscillation overthruster',
     'purity ring',
     'rubber chicken^ with a pulley in the middle',
-    'bead of orichalcum',
+    'bead^ of orichalcum',
     'prime number',
     'tauntaun sleeping bag',
     'blessed <Loot>',
@@ -283,7 +283,7 @@
     'ream^ of <Boss_monster>\'s letterhead',
     '<Monster> bacon',
     "^spurious apostrophe's",
-    'full-flavored, soothing cigarettes',
+    'full-flavored, soothing cigarette',
     'shower radio',
     '<Loot>^ of tomorrow',
     'massive dataset',
@@ -300,4 +300,5 @@
     'bucket^ of water',
     '<Material> pickaxe',
     '<Material> sword',
+    'paperback^ of "<^Book>"'
 ];

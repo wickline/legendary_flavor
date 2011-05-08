@@ -52,6 +52,7 @@ our %Dictionaries;
 
 classical 'herd';
 
+def_noun 'staff' => 'staves';
 def_noun 'huggle' => 'hugglz';
 def_noun 'mudkip' => 'mudkipz';
 def_noun 'cosmo' => 'cosmos';

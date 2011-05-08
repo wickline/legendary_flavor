@@ -20,4 +20,5 @@
     'The International Court of Pancakes in the Hague',
     'The Lunch Dumpster',
     'the combination <Restaraunt_that_routinely_poisons_people> and <Restaraunt_that_routinely_poisons_people>',
+    'Hotel [?Rama<~/Boss_monster>,<^Boss_monster>] Bhavan [?,Family Restaurant ]([?A/C,Veg,Non-veg])',
 ];

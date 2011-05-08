@@ -7,4 +7,5 @@
     'escalator',
     'tram',
     'monorail',
+    'space <Public_transit>',
 ];

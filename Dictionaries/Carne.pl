@@ -14,7 +14,7 @@
     'purring maggot',
     'chapulines',
     '<Carne> relleno',
-    'jamon',
+    'jamón',
     'manteca',
     'chorizo',
     'tocineta',

@@ -30,4 +30,5 @@
     'William Joel',
     'the <Adjective> corpse of <Performer>',
     'the Cambrian Explosion',
+    'Led <^Vehicle>',
 ];

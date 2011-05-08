@@ -37,8 +37,8 @@ q{
     <Status_affliction> because he <Policy_violation>d.
 },
 q{
-    A <Boss_monster>-esque explorer named <Legendary_warrior> addressed the<Club> with stories of his latest <Location>an safari.
-    The<$2> was appalled as he described the effects of the <Animal>'s roar:
+    A <Boss_monster>-esque explorer named <Legendary_warrior> addressed the <Club> with stories of his latest <Location>an safari.
+    The <$2> was appalled as he described the effects of the <Animal>'s roar:
     "You feel it first in your <Body_part>. The <Body_part>s at the tip of your <Body_part> stand up.
     "The <Body_part>s on your <Body_part> become erect."
     <Boss_monster> interrupted him, saying, "I must take severe umbrage at your anatomical logic," to which <$1> replied,
@@ -186,7 +186,15 @@ q{
     My life got flipped, turned upside-down
     So I'd like to take a minute, just sit right there,
     I'll tell you how I became the prince of a town called <Location>:
-    <Fable>
+<Fable>
+},
+q{
+    I read the news today, oh boy
+    4,000 <Loot>s in <Location>
+    And though the <$0>s were very small
+    They had to count them all
+    Now they know how many <$0>s it takes to fill the <^Location> Hall
+    I'd love to turn you on
 },
 q{[Box=<Crate>]
     Little <$Box>s on the hillside,
@@ -206,5 +214,11 @@ q{[Box=<Crate>]
     And <Occupation>s,
     And they're all made out of <$Ticky>
     And they all look just the same.
+},
+q{
+<Fable>
+
+    And I say to myself
+    What a wonderful world
 },
 ];

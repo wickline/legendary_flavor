@@ -189,5 +189,8 @@
     '<Color> bean',
     '<Food> enriched with <2-30> vitamins and minerals',
     '<Color> pepper',
+    'sous-vite <Food>',
+    '<Food> niçoise',
+    'sloppy <Food>',
     ('<Vegetable>',) x 30, # appx N entries in Veg
 ];

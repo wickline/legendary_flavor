@@ -1,4 +1,5 @@
 [
+    '1STPOST',
     'BOSS OF U',
     'INT4EVA',
     'HBOMB',
@@ -8,6 +9,7 @@
     'LYTESPD',
     'DRIFTA',
     'HCKY MOM',
+    'SPER MOM',
     'SLAMVAN',
     'D-LISHUS',
     'DRTHVDR',

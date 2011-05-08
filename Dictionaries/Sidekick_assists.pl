@@ -1,4 +1,27 @@
 ({
+    'C-3PO' => sub {
+        return 'C-3PO complains, "' . singular(one_of([
+            'Sir! The chances of us surviving an encounter with <$Opponent> are <100-10000000> to one!',
+            'I\'ve got a bad feeling about this.',
+            'I believe what <$Opponent> is trying to say is, \'<Rant>\'',
+        ])) . '"';
+    },
+    'R2-D2' => sub {
+        return singular(one_of([
+            'R2 says, "<R2_speech>."',
+            'R2 exclaims, "<R2_speech>!"',
+            'R2 interfaces with <$Opponent>\'s <Loot>.',
+        ]));
+    },
+    'Dirk Calloway' => sub {
+        return singular(one_of([
+            '"Dirk, take dictation," you speak. "Potential members for <Club>: <Boss_monster>, <Sidekick>, <Legendary_warrior>, <$Opponent>. . ."',
+            'You say, "<$Opponent>, this is Dirk Calloway, my chapel partner."',
+            '"I know about you and the <Relationship>", Dirk tells <$Opponent>.
+"Does <$Player> know?"
+"No," Dirk answers, "and I don\'t want him to know. I just want it to stop."',
+        ]));
+    },
     'Tails' => sub {
         return singular(one_of([
             'Tails falls off the edge of the screen.',
@@ -26,7 +49,7 @@
     },
     Filburt => sub {
         return 'Filburt moans, "' . singular(one_of([
-            'Turn the page, wash your hands. Turn the page, wash your hands. And then you turn the page, and then you wash your hands.',
+            'Turn the page, <Policy_compliance>. Turn the page, <$0>. And then you turn the page, and then you <$0>.',
             "I'm nauseous, I'm nauseous, I'm nauseous...",
         ])) . '"';
     },
@@ -42,9 +65,21 @@
         ]));
     },
     'Fozzie Bear' => sub {
-        return singular(one_of([
-            'Wokka wokka wokka!',
-        ]));
+        my $opponent = singular(one_of(['<*$Opponent>']));
+        $opponent =~ s/^.*\s(\w+)$/$1/;
+        if ($opponent =~ /r$/) {
+            return qq{Fozzie quips, "$opponent? I don't even know 'er! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /m$/) {
+            return qq{Fozzie quips, "$opponent? I don't even know 'em! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /[aeiouy]s$/) {
+            return qq{Fozzie quips, "$opponent? I don't even know us! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /(oo|u)$/) {
+            return qq{Fozzie quips, "$opponent? I don't even know you! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /(ee|[bcdfghjklmnpqrstvwxz]y|i)$/) {
+            return qq{Fozzie quips, "$opponent? I don't even know ye! Wokka wokka wokka!"};
+        } else {
+            return qq{Fozzie quips, "Wokka wokka wokka!"};
+        }
     },
     Chewbacca => sub {
         return singular(one_of([

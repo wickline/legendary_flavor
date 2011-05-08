@@ -29,4 +29,5 @@
     'Wookiee',
     'Duros',
     'Neimoidian',
+    '<Alien_race>-American',
 ];

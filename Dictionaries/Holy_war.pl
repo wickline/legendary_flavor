@@ -46,7 +46,8 @@
     '<Soft_drink> over <Soft_drink>',
     'breaking your hard boiled <Animal> egg on the big end (big-endian) versus the little end (little-endian)',
     'EBCDIC vs. ASCII',
-    'UTF-8 vs. UCS-32',
+    'UTF-8 vs. UTF-32',
+    'UTF-16 vs. UCS-2',
     '<OS> over <OS>',
     'stack machines vs. register machines',
     '<Bond> over <Bond>',
@@ -55,4 +56,5 @@
     'ralph over adhesive',
     'literal vikings over metaphorical vikings',
     'hippies vs. squares',
+    'form-fitting vs. gigantic wedding dresses',
 ];
