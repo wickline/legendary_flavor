@@ -5,7 +5,7 @@
     'Electric Light <^Adjective> <^Monster> Orchestra',
     'the Battle of the Bands, featuring <Performer>, <Performer> and <Performer>',
     'Michael Bolton',
-    'David Hasselholf',
+    'David Hasselhoff',
     'William Shatner',
     'Leonard Nimoy',
     'Bollywood <^Material> Band',

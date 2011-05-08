@@ -2,7 +2,7 @@
 q{
     My great-great-<Relationship> once told me of a place called <Location>,
     where the <Animal>s roamed free and the rivers were clean.  Then the <Adjective>
-    people from <Location> came and gave all the locals <Status>. Make sure to wash your hands and
+    people from <Location> came and gave all the locals <Status_affliction>. Make sure to wash your hands and
     don't accept blankets from strangers!
 },
 q{
@@ -19,13 +19,13 @@ q{
     "I am helping to <Policy_compliance>," said the <$3>, "and recommend you to do the same."
 
     "Why bother about winter?" said the <$1>; "We have got plenty of <Loot>s at present."  But the <$3> went
-    on its way and continued its toil.  When the winter came the <$1> had no <$11>s and found itself dying of <Status>,
+    on its way and continued its toil.  When the winter came the <$1> had no <$11>s and found itself dying of <Status_affliction>,
     while it saw the <$3>s distributing every day <Food> and <Food> from the stores they had collected in the summer.
     Then the <$1> knew: It is best to <Policy_compliance>.
 },
 q{
     One afternoon a <Animal> was walking through <Location> and spotted a bunch of <Food>s hanging from a lofty branch.
-    "Just the thing to quench my <Status>," <It> said.
+    "Just the thing to quench my <Status_affliction>," <It> said.
     Taking a few steps back, the <$0> jumped and just missed the hanging <$2>s.  Again the <$0> took a few paces back
     and tried to reach them but still failed.  Finally, giving up, the <$0> turned up <Its> nose and said,
     "<Rant>," and proceeded to walk away.
@@ -34,7 +34,7 @@ q{
 q{
     Did you hear about the boy who ran away because his parents took his <Loot>
     for <Policy_violation>ing? He fell out of a <Food> tree and died of
-    <Status> because he <Policy_violation>d.
+    <Status_affliction> because he <Policy_violation>d.
 },
 q{
     A <Boss_monster>-esque explorer named <Legendary_warrior> addressed the<Club> with stories of his latest <Location>an safari.
@@ -52,7 +52,7 @@ q{
     "You have answered correctly," he replied. "Do this and you will live."
     But he wanted to justify himself, so he asked <$1>, "and who is my <$5>?"
     In reply he said: "A <Monster> was going down from <Location> to <Location>, when <It> fell into the hands of <Monster>s.
-    They stripped the <$8> of his <Garment>s, beat him and went away, leaving him with <Status> and no <$14>s.
+    They stripped the <$8> of his <Garment>s, beat him and went away, leaving him with <Status_affliction> and no <$14>s.
     A <Monster> happened to be going down the same road, and when <It> saw the <$8>,
     <$18> passed by on the other side. But a <Monster>, as he traveled, came where the <$8> was,
     and when he saw him, he took pity on him. He went to him and bandaged his <Body_part>s,
@@ -99,7 +99,7 @@ q{
     One grey night it happened, <$3> came no more
     And <$0> that mighty <$1>, he ceased his fearless roar.
 
-    His head was bent in <Status>, green <Body_part>s fell like rain,
+    His head was bent in <Status_affliction>, green <Body_part>s fell like rain,
     <$0> no longer went to play along the <Material> lane.
     Without his life-long friend, <$0> could not be brave,
     So <$0> that mighty <$1> sadly slipped into his cave. oh!
@@ -138,7 +138,7 @@ q{
     Turning and turning in the widening gyre
     The <Animal> cannot hear the <$0>r;
     Things fall apart; the centre cannot hold;
-    Mere <Status> is loosed upon the world,
+    Mere <Status_affliction> is loosed upon the world,
     The blood-dimmed tide is loosed, and everywhere
     The ceremony of innocence is drowned;
     The best lack all conviction, while the worst

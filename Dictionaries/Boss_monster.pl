@@ -175,7 +175,7 @@
     'Attichitcuk',
     'Mallatobuck',
     'The Oracle',
-    'The A.C.K.',
+    'The A.K.',
     'The Ultimate Chimera',
     'The Penultimate Chimera',
     'The Antepenultimate Chimera',
@@ -196,4 +196,5 @@
     'Dr. <Boss_monster>, M.D.',
     'The Sage of Omaha',
     'Holographic <Boss_monster>',
+    'Zombie <Legendary_boss> "<Appellation_title> of Brains"',
 ]

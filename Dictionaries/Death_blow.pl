@@ -21,12 +21,12 @@
     'You go back in time and blow up the <$Opponent>\'s <Relationship>.',
     '[relationship=<Relationship>][$Player.status=dead <$relationship> temporal paradox]You go back in time and blow up the <$Opponent>\'s <$relationship>.
 Unfortunately, your <$1> is caught in the blast!',
-    'You give <$Opponent> <Disease_Vector> infected with <Status>.',
+    'You give <$Opponent> <Disease_Vector> infected with <Status_affliction>.',
     '<_INFECT_>You give <$Opponent> <Disease_Vector> infected with <$Player.status>.
 Unfortunately, your gloves break during the transaction.',
     '<$Opponent> gasps, "Beaten by a <$Player_level>? How embarrassing!"',
     '<$Opponent> gasps, "Beaten by a <$Player_sign>? How embarrassing!"',
-    'You discover that <$Opponent> never really had <Status> at all, but was covering up for <Its> daughter\'s teen <$1>.',
+    'You discover that <$Opponent> never really had <Status_affliction> at all, but was covering up for <Its> daughter\'s teen <$1>.',
     'You lob a barrage of <Projectile>s at <$Opponent>!',
     'You defeat <$Opponent> in single combat. "That truly was a Hattori Hanzo <Weapon>," <It> says.',
     'You taunt <$Opponent>: "IM IN UR <!Furniture> <!Verb>ing UR <!Loot>!" <$Opponent> rushes out to <Its> <$1> to make sure you\'re not actually <$2>ing <$5> <$3>.',

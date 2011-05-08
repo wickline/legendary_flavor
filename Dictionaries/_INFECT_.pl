@@ -1,3 +1,3 @@
 [
-    '[$Player.status=<Status>]'
+    '[$Player.status=<Status_affliction>]'
 ];

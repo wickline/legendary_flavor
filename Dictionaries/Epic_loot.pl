@@ -86,5 +86,5 @@
     '<Boss_monster>\'s brain in a jar of formaldehyde',
     'The head of Alfredo Garcia',
     'The <Garment> that was burried with <Boss_monster>',
-    'The access code for <Boss_monster>\'s [?secret lair,tomb,pyramid,inner sanctum,undersea laboratory,mainframe computer,fortress of <Status>]',
+    'The access code for <Boss_monster>\'s [?secret lair,tomb,pyramid,inner sanctum,undersea laboratory,mainframe computer,fortress of <Status_affliction>]',
 ];

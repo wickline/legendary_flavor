@@ -64,7 +64,7 @@
         [  300000 => 'Adjunct Professor'                       ],
         [  310000 => 'Associate Professor'                     ],
         [  380000 => 'Professor'                               ],
-        [  600000 => '<*Revolutionary> Professor of <^Status>' ],
+        [  600000 => '<*Revolutionary> Professor of <^Status_affliction>' ],
         [ 1000000 => 'Professor Emeritus'                      ],
     ],
     cubic => [

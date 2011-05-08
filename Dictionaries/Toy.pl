@@ -11,7 +11,7 @@
     "LEGO\x{00AE} brick",
     'Silly Putty',
     'Super Soaker',
-    'Pogostick',
+    'Pogo stick',
     'Etch-A-Sketch',
     'Mr. Potato Head',
     'Frisbee',

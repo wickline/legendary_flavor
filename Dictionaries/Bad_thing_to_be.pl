@@ -14,4 +14,5 @@
     'a <Animal> in a <Crate>',
     'addicted to <Drug>',
     'from a broken home',
+    'living in a shotgun shack',
 ];
