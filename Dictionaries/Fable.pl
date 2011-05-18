@@ -215,10 +215,13 @@ q{[Box=<Crate>]
     And they're all made out of <$Ticky>
     And they all look just the same.
 },
-q{
+q{[Chorus=<Chorus>]
 <Fable>
-
-    And I say to myself
-    What a wonderful world
+<$Chorus>
+<Fable>
+<$Chorus>
+<Fable>
+<$Chorus>
+<Fable>
 },
 ];

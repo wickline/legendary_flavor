@@ -20,4 +20,6 @@
     'REVOEVOM',
     '<1-9><0-9><0-9>-<Alphabet><Alphabet><Alphabet>',
     '<Alphabet><Alphabet><Alphabet>-<1-9><0-9><0-9>',
+    'MR AWESM',
+    'HESTHE1',
 ];

@@ -5,7 +5,7 @@
     '<_MOVE_><$Opponent> throws you in the back of <Its> <Vehicle> and takes you to <$Player.location> against your will!',
     '[$Player.sep_sidekick=<$Player.sidekick>][$Player.sidekick=]<_WOUND_><_MOVE_><$Opponent> clocks you over the head with your <$Loot> and takes you to <$Player.location> against your will![Player.sep_sidekick? You get separated from <$Player.sep_sidekick>!:]',
     '[$Player.sep_sidekick=<$Player.sidekick>][$Player.sidekick=]<&Failure>[Player.sep_sidekick?
-Meanwhile, the City of Los Angeles buys out your <$Player.sep_sidekick> franchise, which will now be known as the L.A. Super <$Player.sep_sidekick>s.]',
+Meanwhile, the City of Los Angeles buys out your <$Player.sep_sidekick> franchise, which will now be known as the L.A. Super <$Player.sep_sidekick>s.:]',
     '<_WOUND_><$Opponent> smacks you right in the <Body_part>!',
     '<$Opponent> "accidentally" strokes your <Body_part> with <Its> <Body_part>!',
     '<_WOUND_><$Opponent> insults your mother whilst kicking dirt in your eye.',

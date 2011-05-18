@@ -36,8 +36,14 @@
 "Excellent idea, sir!"',
             '"Smithers, <Verb> my <Body_part>," you demand.
 "With pleasure, sir!"',
+            '"Smithers," you declare, "I feel like <Policy_violation>ing."
+"I\'ll prepare the <Loot>, sir."',
             'You ask, "Smithers, who was that <Animal>?"
 "Sir, that was <$Opponent>, one of your <Loot>s from <Initech_affiliate>."',
+            '"Smithers," you muse, "I think I\'ll <Policy_compliance>. . . WHEN <!Animal>s FLY! Haha!"
+Suddenly, you see a <$1> flying through the air.
+Smithers asks, "Sir, will you be <$0>ing now?"
+"No, I\'d still prefer not."',
         ]));
     },
     'John Freeman' => sub {
@@ -66,19 +72,24 @@
     },
     'Fozzie Bear' => sub {
         my $opponent = singular(one_of(['<*$Opponent>']));
-        $opponent =~ s/^.*\s(\w+)$/$1/;
-        if ($opponent =~ /r$/) {
-            return qq{Fozzie quips, "$opponent? I don't even know 'er! Wokka wokka wokka!"};
-        } elsif ($opponent =~ /m$/) {
-            return qq{Fozzie quips, "$opponent? I don't even know 'em! Wokka wokka wokka!"};
-        } elsif ($opponent =~ /[aeiouy]s$/) {
-            return qq{Fozzie quips, "$opponent? I don't even know us! Wokka wokka wokka!"};
-        } elsif ($opponent =~ /(oo|u)$/) {
-            return qq{Fozzie quips, "$opponent? I don't even know you! Wokka wokka wokka!"};
-        } elsif ($opponent =~ /(ee|[bcdfghjklmnpqrstvwxz]y|i)$/) {
-            return qq{Fozzie quips, "$opponent? I don't even know ye! Wokka wokka wokka!"};
+        if ($opponent =~ /\w+r\b/) {
+            return qq{Fozzie quips, "$&? I don't even know 'er! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+m\b/) {
+            return qq{Fozzie quips, "$&? I don't even know 'em! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+[eio]tt?\b/) {
+            return qq{Fozzie quips, "$&? I don't even know it! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+[aeiou]ss?\b/) {
+            return qq{Fozzie quips, "$&? I don't even know us! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+(oo|u)\b/) {
+            return qq{Fozzie quips, "$&? I don't even know you! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+(ee|[bcdefghjklmnpqrstvwxz]y|i)\b/) {
+            return qq{Fozzie quips, "$&? I don't even know ye! Wokka wokka wokka!"};
+        } elsif ($opponent =~ /\w+[bcdfghjklmnpqrstvwxz]a\b/) {
+            my $accented = $&;
+            $accented =~ s/a$/er/g;
+            return qq{Fozzie quips, "$accented? I don't even know 'er! Wokka wokka wokka!"};
         } else {
-            return qq{Fozzie quips, "Wokka wokka wokka!"};
+            return qq{Fozzie thinks for a moment, then quips, "Wokka wokka wokka!"};
         }
     },
     Chewbacca => sub {
