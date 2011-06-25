@@ -9,6 +9,7 @@
     'ckw',
     'ebh',
     'gbg',
+    'gsc',
     'jah',
     'jal',
     'jbt',
