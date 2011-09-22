@@ -1,5 +1,6 @@
 [
     'btp (who subsequently passed on)',
+    'cjh',
     'shr',
     'Abe Vigoda',
     'Achilles',

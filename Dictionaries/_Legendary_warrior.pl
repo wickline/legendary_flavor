@@ -40,6 +40,7 @@
     'sas',
     'swm',
     'tkb',
+    'wlg',
 
     '<Legendary_warrior_returned_to_us>',
 
