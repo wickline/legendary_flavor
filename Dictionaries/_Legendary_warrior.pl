@@ -39,6 +39,7 @@
     'rxc',
     'sam',
     'sas',
+    'shr',
     'swm',
     'tkb',
     'wlg',
