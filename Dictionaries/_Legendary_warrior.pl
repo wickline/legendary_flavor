@@ -22,6 +22,7 @@
     'jrd',
     'jsh',
     'jxr',
+    'lwk',
     'kar',
     'map',
     'mar',
